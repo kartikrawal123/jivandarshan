@@ -1,0 +1,102 @@
+.logo{
+    height:150px;
+    width:250px;
+    text-align: center;
+}
+.slick_slider{
+    height: 420px !important;
+}
+.slider-img{
+    height: 300px!important;
+    width:100%!important;
+}
+.logo-png{
+    height:100%;
+    width:100%;
+}
+.media-left{
+    height: 120px!important;
+    width: 120px!important;
+float:left;
+}
+.slider-image{
+    height: 400px!important;
+    width:100%!important;
+
+}
+.title_text{
+    color:black !important;
+    font-size: 25px !important;
+}
+.bold_line span{
+    background-color:black!important;
+}
+.single_iteam h2{
+ position: relative !important;
+}
+.slider_tittle{
+    background-color: white!important;
+color:black!important;
+font-size: 25px!important;
+}
+
+/*.media-heading a{*/
+    /*color:black!important;*/
+/**/
+/*}*/
+/*.navbar-default{*/
+    /*background-color:black!important;*/
+/*}*/
+/*.media{*/
+    /*display: block !important;*/
+/*}*/
+/*#cssmenu{*/
+    /*background-color: black!important;*/
+/*}*/
+#cssmenu ul li ul{
+display: none;
+position: absolute;
+    top: 30px;
+}
+#cssmenu ul li:hover ul {
+   display: block;
+
+}
+#cssmenu ul li ul {
+    width:100%;
+    margin-top: 5px;
+    position: absolute;
+    background-color: white;
+    top: 90%;
+    /*height: 100%;*/
+}
+#cssmenu ul li ul a{
+    color:black;
+    padding: 5px 10px;
+    align-items: center;
+}
+#cssmenu ul li ul a:hover{
+    color: #ffffff;
+}
+.page-numbers {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 2px 0 0;
+    border: 1px solid #eee;
+    line-height: 1;
+    text-decoration: none;
+    border-radius: 2px;
+    font-weight: 600;
+}
+.page-numbers.current,
+a.page-numbers:hover {
+    background: #ffa500;
+}
+
+.dropdown, .dropup{
+    z-index: 100;
+
+}
+.custom-img{
+    height: 200px;
+}
