@@ -21,7 +21,7 @@ define('THEMOSIS_CHARSET', 'UTF-8');
 
 // Development
 define('SAVEQUERIES', true);
-define('WP_DEBUG', true);
+define('WP_DEBUG', false);
 define('WP_DEBUG_DISPLAY', true);
 define('SCRIPT_DEBUG', true);
 
